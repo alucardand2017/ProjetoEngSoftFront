@@ -1,0 +1,28 @@
+div#divisao1
+{
+background-color: green; width: 15cm ; height: 3cm; text-align: center;
+}
+p.para1
+{
+    background-color: aquamarine; width: 15cm; height: 3cm; text-align: center;
+}
+p.para2
+{
+    background-color: rgb(247, 166, 166); width: 15cm; height: 3cm; text-align: center;
+}
+p.para3
+{
+    background-color: rgb(189, 247, 166); width: 15cm; height: 3cm; text-align: center;
+}
+p.para4
+{
+    background-color: rgb(184, 166, 247); width: 15cm; height: 3cm; text-align: center;
+}
+p.para5
+{
+    background-color: rgb(232, 247, 166); width: 15cm; height: 3cm; text-align: center;
+}
+aside
+{
+    font-style: normal; font-family: 'Courier New'; font-size: 15px;
+}
